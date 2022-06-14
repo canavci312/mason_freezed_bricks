@@ -1,6 +1,6 @@
 name: fbloc_page
 description: A brick to create a page with view and bloc with freezed
-
+repository: https://github.com/canavci312/mason_freezed_bricks.git
 version: 0.0.1
 
 environment:
